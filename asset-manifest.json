@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.23cb267e.js",
-    "index.html": "/index.html",
-    "main.23cb267e.js.map": "/static/js/main.23cb267e.js.map"
+    "main.js": "/componenthw2.1/static/js/main.23cb267e.js",
+    "index.html": "/componenthw2.1/index.html",
+    "main.23cb267e.js.map": "/componenthw2.1/static/js/main.23cb267e.js.map"
   },
   "entrypoints": [
     "static/js/main.23cb267e.js"
