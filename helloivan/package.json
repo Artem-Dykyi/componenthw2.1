@@ -9,7 +9,7 @@
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1"
   },
-  "homepage": "",
+  "homepage": "https://artem-dykyi.github.io/componenthw2.1/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build --public-url ./",
